@@ -1,6 +1,6 @@
 # TerrificEye3D: An Edge Computing System For Traffic Analytics From Videos
 
-![title cover image](terrificEye3D.gif)
+![title cover image](TerrificEye3D.gif)
 
 
 ## Requirements
