@@ -1,1 +1,1 @@
-python trafic_analyzer.py --config_file yolov4.cfg --data_file coco.data --weights ../models/yolov4.weights --input G:\Recordings\HD720_SN1822_11-25-02.svo --start=700 --end_frame=4200 --confidence 0.7 --thresh 0.15 --out_filename=output.avi
+python trafic_analyzer.py --config_file yolov4.cfg --data_file coco.data --weights ../models/yolov4.weights --input HD720_SN1822_11-25-02.svo --start=700 --end_frame=4200 --confidence 0.7 --thresh 0.15 --out_filename=output.avi

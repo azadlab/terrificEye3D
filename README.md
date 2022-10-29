@@ -8,7 +8,7 @@
 * Python 3
 * tensorflow
 * DarkNet (Yolov4)
-* ZED Camera (or Recorded 3D video files)
+* ZED Camera (or Recorded 3D video files [*.svo])
 * GPU
 
 
